@@ -1,0 +1,74 @@
+<svg width="600" height="500" viewBox="0 0 600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Elements -->
+    <circle cx="300" cy="250" r="180" fill="#F6F1EB" />
+    <circle cx="300" cy="250" r="150" fill="#FFFFFF" />
+    
+    <!-- Device Frame -->
+    <rect x="200" y="130" width="200" height="260" rx="12" fill="#FAFAFA" stroke="#A47551" stroke-width="4"/>
+    <rect x="210" y="145" width="180" height="220" rx="4" fill="#E4DDD3" opacity="0.6"/>
+    
+    <!-- UI Elements on Screen -->
+    <rect x="225" y="165" width="150" height="30" rx="4" fill="white" opacity="0.9"/>
+    <rect x="225" y="205" width="150" height="70" rx="4" fill="white" opacity="0.9"/>
+    <rect x="225" y="285" width="70" height="70" rx="4" fill="white" opacity="0.9"/>
+    <rect x="305" y="285" width="70" height="30" rx="4" fill="white" opacity="0.9"/>
+    <rect x="305" y="325" width="70" height="30" rx="4" fill="white" opacity="0.9"/>
+    
+    <!-- Phone Home Button -->
+    <circle cx="300" cy="380" r="12" fill="white" stroke="#A47551" stroke-width="2"/>
+    
+    <!-- Design Elements Floating -->
+    <circle cx="150" cy="170" r="25" fill="#A47551" opacity="0.15"/>
+    <circle cx="450" cy="200" r="35" fill="#A47551" opacity="0.15"/>
+    <circle cx="180" cy="320" r="20" fill="#8D6E63" opacity="0.25"/>
+    <circle cx="420" cy="360" r="15" fill="#A47551" opacity="0.2"/>
+    
+    <!-- Color Palette -->
+    <circle cx="430" cy="160" r="15" fill="#A47551"/>
+    <circle cx="470" cy="160" r="15" fill="#8D6E63"/>
+    <circle cx="510" cy="160" r="15" fill="#3E2723"/>
+    
+    <!-- Design Tools -->
+    <path d="M130 200C130 200 150 180 170 200C190 220 170 240 150 240C130 240 110 220 130 200Z" fill="#A47551" opacity="0.6"/>
+    <rect x="120" y="250" width="40" height="40" rx="5" transform="rotate(-15 120 250)" fill="#8D6E63" opacity="0.6"/>
+    
+    <!-- Cursor -->
+    <path d="M410 250L420 240L420 260L410 250Z" fill="#3E2723"/>
+    <line x1="380" y1="250" x2="410" y2="250" stroke="#3E2723" stroke-width="2"/>
+    
+    <!-- Hand Drawing Element -->
+    <path d="M100 380C100 380 120 360 140 360C160 360 180 380 200 380C220 380 240 360 260 360" stroke="#A47551" stroke-width="4" stroke-linecap="round"/>
+    
+    <!-- Wireframe Elements -->
+    <line x1="480" y1="250" x2="540" y2="250" stroke="#A47551" stroke-width="2"/>
+    <line x1="480" y1="270" x2="520" y2="270" stroke="#A47551" stroke-width="2"/>
+    <line x1="480" y1="290" x2="530" y2="290" stroke="#A47551" stroke-width="2"/>
+    <rect x="480" y="310" width="60" height="20" rx="4" stroke="#A47551" stroke-width="2" fill="none"/>
+    
+    <!-- Design Thinking Elements -->
+    <g opacity="0.8">
+        <circle cx="90" cy="120" r="20" fill="none" stroke="#A47551" stroke-width="2"/>
+        <text x="90" y="125" font-family="Arial" font-size="12" text-anchor="middle" fill="#A47551">UX</text>
+    </g>
+    <g opacity="0.8">
+        <circle cx="140" cy="100" r="20" fill="none" stroke="#8D6E63" stroke-width="2"/>
+        <text x="140" y="105" font-family="Arial" font-size="12" text-anchor="middle" fill="#8D6E63">UI</text>
+    </g>
+    
+    <!-- Design Process Flow -->
+    <path d="M350 100C350 100 380 80 410 100C440 120 470 100 500 100" stroke="#8D6E63" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 5"/>
+    
+    <!-- Decorative Elements -->
+    <circle cx="300" cy="60" r="10" fill="#A47551"/>
+    <circle cx="325" cy="75" r="5" fill="#8D6E63"/>
+    <circle cx="275" cy="75" r="5" fill="#8D6E63"/>
+    
+    <!-- Grid Pattern -->
+    <g opacity="0.15">
+        <line x1="120" y1="400" x2="120" y2="440" stroke="#A47551"/>
+        <line x1="140" y1="400" x2="140" y2="440" stroke="#A47551"/>
+        <line x1="160" y1="400" x2="160" y2="440" stroke="#A47551"/>
+        <line x1="180" y1="400" x2="180" y2="440" stroke="#A47551"/>
+        <line x1="100" y1="420" x2="200" y2="420" stroke="#A47551"/>
+    </g>
+</svg> 
